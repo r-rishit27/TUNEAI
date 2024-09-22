@@ -2,7 +2,8 @@
 
 This repository contains the code for generating cold emails for job posting to hiring managers based on your resume  that uses Tune Studio to integrate LangChain  with the OpenAI API gpt 4-0 model and Streamlit for the front end. 
 
-![Screenshot 2024-09-22 002955](https://github.com/user-attachments/assets/1587c800-6294-4c4a-b9ab-3406671acf7f)
+![image](https://github.com/user-attachments/assets/3756fb7e-c7ca-49a6-9680-bafbd156ca65)
+
 
 
 ## Running the application
